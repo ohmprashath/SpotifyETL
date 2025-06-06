@@ -19,6 +19,6 @@ This project extracts Spotify track data using the Spotify Web API, transforms i
 3. Open `.pbix` in Power BI
 
 ## 📊 Sample Visualization from Power BI
-## Spotify Power BI Dashboard1
+## Spotify Power BI Dashboard 1
 
 ![Spotify Dashboard1](powerbi_dashboard1.png)
