@@ -17,3 +17,8 @@ This project extracts Spotify track data using the Spotify Web API, transforms i
 1. Clone the repo
 2. Run `etl_script.py` with Python 3
 3. Open `.pbix` in Power BI
+
+## 📊 Sample Visualization from Power BI
+## Spotify Power BI Dashboard1
+
+![Spotify Dashboard1](powerbi_dashboard1.png)
